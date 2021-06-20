@@ -1,0 +1,49 @@
+@media screen and (max-width: 1200px) {
+		
+ .divs-footer
+    {
+        flex-direction: column;
+    }
+   
+    .divs-footer
+    {
+        margin-right: 0;
+        margin-left: 10px;
+        padding-bottom: 0;
+    } 
+	
+	
+	
+    .activities h2 
+    {
+        padding-left: 20px;
+    }
+    .activites-divs
+    {
+        display: flex;
+		flex-direction: column;
+		width: auto;	  
+    }
+
+}
+@media screen and (max-width: 1437px) {
+	.bloc-populaire{
+    margin-top: 20px;
+}	
+	
+ 
+
+@media screen and (max-width: 422px) {
+	
+	}
+	
+	.titre-populaire{
+	font-size: 26px;
+	padding-left: 0px
+		
+}
+	.titre-hebergement{
+	font-size: 26px;
+	padding-left: 0px
+}
+}
